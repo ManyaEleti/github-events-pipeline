@@ -8,3 +8,8 @@ logs/
 .pytest_cache/
 dbt_project/target/
 dbt_project/dbt_packages/
+airflow/airflow.db
+airflow/airflow-webserver.pid
+airflow/airflow-scheduler.pid
+airflow/logs/
+*.pid
